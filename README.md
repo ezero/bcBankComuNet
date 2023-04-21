@@ -52,7 +52,7 @@ The master branch is now using .NET 7. If you need a previous version use one of
 
 - [6.0](https://github.com/ardalis/CleanArchitecture/releases/tag/dotnet-6)
 - [5.0](https://github.com/ardalis/CleanArchitecture/releases/tag/dotnet-core-5)
-- [3.1](https://github.com/ardalis/CleanArchitecture/tree/dotnet-core-3.1)
+- [3.1](https://github.com/ezero/bcBankComuNet/tree/dotnet-core-3.1)
 - [2.2](https://github.com/ardalis/CleanArchitecture/tree/dotnet-core-2.2)
 - [2.0](https://github.com/ardalis/CleanArchitecture/tree/dotnet-core-2.0)
 
